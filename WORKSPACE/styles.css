@@ -1,0 +1,32 @@
+
+body {margin: 0px;background-color:darkcyan;}
+
+header{background-color: rgb(255, 255, 255); margin: 0; padding: 8px;}
+
+h1{text-align: center;box-sizing: border-box;color: azure;font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+.navegador{background-color:black; color: antiquewhite;box-shadow:0 0 5px 0 black;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+.titProd{text-align: left;color: azure;font-family:Verdana, Geneva, Tahoma, sans-serif;}
+
+.listaLink{display: inline-block; list-style-type: none; display: flex; flex-direction: row;justify-content:space-evenly;margin-top: 0%; padding: 10px;}
+
+.Bienvenida{text-align: center; font-size: 18px }
+
+.introText{text-align:center; font-family:Verdana,Tahoma, sans-serif}  
+
+.video_contenedor{
+    position: relative; 
+    height: 0; 
+    padding-bottom: 56.25%;
+    overflow: hidden;
+    max-width: 100%;}  
+
+.ofertas{margin: 20px; border: 10px; border-color: white;
+color:white;}
+
+.pie{ color:whitesmoke; background-color: black;box-sizing: border-box; margin: 5;
+  padding: 2%;}
+
+
